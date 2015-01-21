@@ -56,7 +56,7 @@ public class MainActivity extends Activity implements OnClickListener,OnRefreshL
 	private Button send;
 	private DropdownListView mListView;
 	private ChatLVAdapter mLvAdapter;
-	
+	//test
 	private LinearLayout chat_face_container;
 	private ImageView image_face;//表情图标
 	// 7列3行
